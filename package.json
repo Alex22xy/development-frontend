@@ -1,5 +1,5 @@
 {
-  "name": "frontend",
+  "name": "secureguard-frontend",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -23,5 +23,6 @@
     "eslint-config-next": "16.1.1",
     "tailwindcss": "^4",
     "typescript": "^5"
-  }
+  },
+  "description": "SecureGuard - Security Company Management Platform"
 }
